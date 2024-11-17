@@ -1,4 +1,4 @@
-# Make It Markdown - Markdown-based Websites Guide 🚀
+# MarkdownIt - Use Markdown Everywhere 🚀
 
 Learn how you can build markdown-based websites, docs, knowledgebases and more -- and why a markdown-based approach is awesome 🦸‍♀
 
