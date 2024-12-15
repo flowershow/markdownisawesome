@@ -1,5 +1,6 @@
 ---
 created: 2024-12-15
+title: Markdown for Apple Notes
 ---
 
 Appled Notes unfortunately still does not support [[markdown]].
