@@ -31,3 +31,13 @@ Wow, that was easy 😅
 - Or upload
 
 However, frankly I prefer just copy/pasting markdown using the above techniques 99% of the time.
+
+# Commentary
+
+## 2025-01-15 - Rufus Pollock
+
+I personally don't use markdown *in* google docs that much. But I use the import/export features a lot when collaborating with other folks. e.g. i draft something in obsidian or in a github issue (in markdown) and then i need to collaborate with others or make a fancier version so i need to transfer to google docs ... paste from markdown support in gdocs is then a god-send.
+
+conversely i've worked with some colleague on a product idea or a task in google docs and now i want to transfer to issue tracker in e.g. github ... copy as markdown is super helpful.
+
+I also often find that for relatively rich textual output prompting chatgpt to give me markdown output and then pasting in gdocs gives greater fidelity than copying and pasting directly from chatgpt (especially the native app).
