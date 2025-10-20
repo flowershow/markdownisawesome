@@ -1,4 +1,4 @@
-# MarkdownIt - Use Markdown Everywhere 🚀
+# Markdown is Awesome - and How you Can Use it Everywhere 🚀
 
 Learn how you can build markdown-based websites, docs, knowledgebases and more -- and why a markdown-based approach is awesome 🦸‍♀
 
