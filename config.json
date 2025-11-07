@@ -1,0 +1,23 @@
+{
+  "title": "Markdown is Awesome 🚀",
+  "showSidebar": true,
+  "favicon": "🚀",
+  "showEditLink": true,
+  "theme": "lessflowery",
+  "nav": {
+    "title": "Markdown is Awesome 🚀",
+    "links": [
+      {
+        "href": "/About",
+        "name": "About"
+      }
+    ],
+    "social": [
+      {
+        "label": "github",
+        "name": "GitHub Profile",
+        "href": "https://github.com/flowershow/markdownisawesome"
+      }
+    ]
+  }
+}
