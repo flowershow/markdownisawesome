@@ -6,21 +6,22 @@ Learn how you can build markdown-based websites, docs, knowledgebases and more -
 
 ## Tutorials
 
-### Tutorial 1: Create a website from scratch using markdown and PortalJS
+### Tutorial 1: Create a website from scratch using markdown and Flowershow
 
-In this tutorial we will walk you through creating an elegant, fully functional website written in simple markdown and published with PortalJS.
+In this tutorial we will walk you through creating an elegant, fully functional website written in simple markdown and published with Flowershow.
 
 By the end of this tutorial you will:
 
-- have a working markdown-based website powered by PortalJS.
+- have a working markdown-based website powered by Flowershow.
 - be able to edit the text and add pages, all from an online interface without installing anything.
 
 Below is a screenshot of how the final website will look like:
 ![[tutorial-1-result.png]]
+
 #### Setup a sandbox website including live publishing
 
 - Prerequisites: sign up for GitHub and Vercel
-- Navigate to [datopian/flowershow repository](https://github.com/datopian/flowershow)
+- Navigate to [flowershow/flowershow repository](https://github.com/flowershow/flowershow)
 - Click on "Deploy"
 - Let the site build on Vercel
 - Visit the site! Yay! Your site is working! 🎉
